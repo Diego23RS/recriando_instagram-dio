@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/nMtQKJN.png">
+<img src="https://apportalpe.000webhostapp.com/github-diego/cover_result.png">
 </p>
 
 <p align="center">
