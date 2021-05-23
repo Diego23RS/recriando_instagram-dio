@@ -12,13 +12,10 @@
 <img src="https://apportalpe.000webhostapp.com/github-diego/cover_result.png">
 </p>
 
-<p align="center">
-    <a href="https://www.facebook.com/digitalinnovationone" target="_blank"><img class="link" src="https://i.imgur.com/s9wDAAI.png?1" width="30rem"></a> <a href="https://www.youtube.com/results?search_query=digital+innovation+one" target="_blank"><img class="link" src="https://i.imgur.com/zG40AZC.png?1" width="30rem"></a> <a href="https://twitter.com/dio4tech" target="_blank"><img class="link" src="https://i.imgur.com/0Xfla8g.png?1" width="30rem"></a> <a href="https://web.digitalinnovation.one/" target="_blank"><img class="link" src="https://i.imgur.com/skUash9.png?1" width="30rem"></a>
-</p>
 
 ## 📚 Sobre
 
-<p align="justify">Repositório dedicado a resoluções de todos os exercícios propostos para execução do Projeto: Recriando a Página Inicial do Instagram contido no BootCamp Everis FullStack Developer da Digital Innovation One. O projeto foi ministrado por Gabriela Pinheiro, Professora e Front-End Engineer, em outubro de 2020. O projeto aborda o conceito de CSS Flexbox e Responsividade.</p>
+<p align="justify">Repositório dedicado a resoluções de todos os exercícios propostos para execução do Projeto: Recriando a Página Inicial do Instagram contido no <b>BootCamp Everis FullStack Developer da Digital Innovation One</b>. O projeto foi ministrado por Gabriela Pinheiro.</p>
 
 *Para ter acesso a este conteúdo, acesse a [**DIO**](https://web.digitalinnovation.one)*                                  
 
@@ -32,7 +29,7 @@ O projeto foi desenvolvido a partir das tecnologias:
 
 ## 📚 About
 
-*<p align="justify">Dedicated repository to solving all the exercises proposed for the Project Execution: Recreating the Instagram Homepage, contained in **Digital Innovation One's BootCamp, Everis FullStack Developer**. The project was taught by Gabriela Pinheiro, Professor and Front-End Engineer, in October 2020. The project aims to address the concept of CSS Flexbox and Responsiveness.</p>*
+*<p align="justify">Dedicated repository to solving all the exercises proposed for the Project Execution: Recreating the Instagram Homepage, contained in **Digital Innovation One's BootCamp, Everis FullStack Developer**. The project was taught by Gabriela Pinheiro.</p>*
 
 *To access this content, visit [**DIO**](https://web.digitalinnovation.one/)*                                  
 
